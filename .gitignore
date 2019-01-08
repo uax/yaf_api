@@ -4,4 +4,4 @@
 /.vagrant
 npm-debug.log
 yarn-error.log
-conf/app.ini
+/conf/app.ini
